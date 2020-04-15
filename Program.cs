@@ -14,11 +14,12 @@ namespace MiniJuego
             Console.WriteLine("Adivina el numero");
             // Almacenamos la respuesta del usuario y convertimos el string a int
             int respuesta = Int32.Parse(Console.ReadLine());
-            
+
+            int intentos = 1;
             while (respuesta != numeroAleatorio)
             {
-
-                Console.WriteLine($"Respuesta incorrecta, Vuelve a intertarlo.");
+                intentos++;                
+                Console.WriteLine("Respuesta incorrecta, Vuelve a intertarlo.");
                 respuesta = Int32.Parse(Console.ReadLine());
                 if ( respuesta < numeroAleatorio )
                 {
@@ -27,8 +28,9 @@ namespace MiniJuego
                 {
                     Console.WriteLine("Es un número mas bajo!");                    
                 }
-            }            
-            Console.WriteLine("Felicidades ganaste!");
+            }    
+            // Utilizamos interpolacion para mostrar los intentos que hizo el usuario
+            Console.WriteLine($"Felicidades ganaste!. Número de intentos {intentos}");
         }
     }
 }
