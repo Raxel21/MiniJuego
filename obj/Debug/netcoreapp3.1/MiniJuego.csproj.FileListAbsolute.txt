@@ -1,0 +1,13 @@
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.exe
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.deps.json
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.runtimeconfig.json
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.runtimeconfig.dev.json
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.dll
+C:\Users\Celvyn\source\repos\MiniJuego\bin\Debug\netcoreapp3.1\MiniJuego.pdb
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.csprojAssemblyReference.cache
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.csproj.CoreCompileInputs.cache
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.AssemblyInfoInputs.cache
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.AssemblyInfo.cs
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.dll
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.pdb
+C:\Users\Celvyn\source\repos\MiniJuego\obj\Debug\netcoreapp3.1\MiniJuego.genruntimeconfig.cache
