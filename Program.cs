@@ -13,7 +13,13 @@ namespace MiniJuego
 
             Console.WriteLine("Adivina el numero");
             // Almacenamos la respuesta del usuario y convertimos el string a int
-            int respuesta = Int32.Parse(Console.ReadLine());           
+            int respuesta = Int32.Parse(Console.ReadLine());
+            
+            while (respuesta != numeroAleatorio)
+            {
+                Console.WriteLine($"Respuesta incorrecta. Intenta de nuevo {numeroAleatorio}");
+                respuesta = Int32.Parse(Console.ReadLine());
+            }
         }
     }
 }
